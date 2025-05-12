@@ -1,0 +1,20 @@
+Type Inference
+1. Understanding Type Inference
+2. Type Annotations
+
+Type Inference - Jab variable based on the given value khud type pta kre
+Ex. let a = 12;
+
+Type Annotations - Jab hmlg khud variable ko uska type bataye
+Ex. let a: number = 45;
+
+
+Interfaces and Type Aliases
+• Defining Interfaces
+• Using Interfaces to defining object shapes
+• Extending Interfaces
+• Type Aliases
+• Intersection Types
+
+Interface ka kaam hai object ka shape batana
+Types ka kaam hai apne khud ke user defined types banana
