@@ -18,3 +18,7 @@ Interfaces and Type Aliases
 
 Interface ka kaam hai object ka shape batana
 Types ka kaam hai apne khud ke user defined types banana
+
+Both Interfaces and Types are almoest same but they have some key differences:
+1. As two interfaces with same name gets merged this does not apply to types
+2. Types = works with data types and define them, Interfaces = Shapes an object

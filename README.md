@@ -14,17 +14,9 @@ Typescript-Tutorials/
 │
 ├── 02-Type-System/
 │   ├── 01-Type-Inference-Annotations.ts
-│   ├── 01-Type-Inference-Annotations.js
-│   ├── 02-Type-Annotations.ts
-│   ├── 02-Type-Annotations.js
-│   ├── 03-Interfaces-and-Type-Aliases.ts
-│   ├── 03-Interfaces-and-Type-Aliases.js
-│   ├── 04-Extending-Interfaces.ts
-│   ├── 04-Extending-Interfaces.js
-│   ├── 05-Type-Aliases-Fundamentals.ts
-│   ├── 05-Type-Aliases-Fundamentals.js
-│   ├── 06-Intersection-Types.ts
-│   ├── 06-Intersection-Types.js
+│   ├── 02-Interfaces.ts
+│   ├── 03-Type-Aliases.ts
+│   ├── 04-Intersection.ts
 │   └── notes.txt
 │
 ├── 03-Classes-and-Objects/
