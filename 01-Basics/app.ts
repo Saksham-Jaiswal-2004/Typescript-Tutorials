@@ -20,3 +20,38 @@ let arr4: [string, number] = ["Saksham", 49]; // We cannot change the order of d
 
 // Enums - i.e. Enumerations
 // It is used when we have to store data with key value pairs
+enum UserRoles {
+    ADMIN = "admin",
+    GUEST = "guest",
+    SUPER_ADMIN = "super_admin"
+}
+
+UserRoles.ADMIN // We can access them like this
+
+// Any - when we declare a variable but we don't give it any type or variable
+let c; // Any
+let d: number; // By this we can declare a variable with data type
+
+// Unknown - it is exactly like Any but for unknown type data we have to first check its data type before performing that data type related operations
+let e: unknown;
+e = 9;
+e = "Saksham";
+
+if( typeof e === "string")
+    e.toUpperCase();
+
+// Void - A function with no return type
+// void type function
+function abcd(): void {
+    console.log("Hello")
+}
+
+// A function with string return type
+function userName(): string {
+    return "Saksham";
+}
+
+// NULL - it is basically nothing, we get this when required data is missing
+
+// Never
+// A function with a return type of never when called then code after that call statement is not executed as the control never returns from within the function

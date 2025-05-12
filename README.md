@@ -8,40 +8,89 @@ Welcome to my personal learning repository where I explore and practice **TypeSc
 Typescript-Tutorials/
 │
 ├── 01-Basics/
-│   ├── index.ts
-│   ├── index.js         # Compiled output
-│   └── notes.md         # Optional: topic explanations
+│   ├── app.ts
+│   ├── app.js
+│   └── notes.txt
 │
-├── 02-Functions/
-│   ├── functions.ts
-│   └── functions.js
+├── 02-Type-System/
+│   ├── 01-Type-Inference-Annotations.ts
+│   ├── 01-Type-Inference-Annotations.js
+│   ├── 02-Type-Annotations.ts
+│   ├── 02-Type-Annotations.js
+│   ├── 03-Interfaces-and-Type-Aliases.ts
+│   ├── 03-Interfaces-and-Type-Aliases.js
+│   ├── 04-Extending-Interfaces.ts
+│   ├── 04-Extending-Interfaces.js
+│   ├── 05-Type-Aliases-Fundamentals.ts
+│   ├── 05-Type-Aliases-Fundamentals.js
+│   ├── 06-Intersection-Types.ts
+│   ├── 06-Intersection-Types.js
+│   └── notes.txt
 │
-├── 03-Advanced-Types/
-│   ├── advanced-types.ts
-│   └── advanced-types.js
+├── 03-Classes-and-Objects/
+│   ├── 01-Intro-Classes-Objects.ts
+│   ├── 01-Intro-Classes-Objects.js
+│   ├── 02-Class-Fundamentals.ts
+│   ├── 02-Class-Fundamentals.js
+│   ├── 03-Constructor.ts
+│   ├── 03-Constructor.js
+│   ├── 04-This-Keyword.ts
+│   ├── 04-This-Keyword.js
+│   ├── 05-Public-Private.ts
+│   ├── 05-Public-Private.js
+│   ├── 06-Protected.ts
+│   ├── 06-Protected.js
+│   ├── 07-Optional-Properties.ts
+│   ├── 07-Optional-Properties.js
+│   ├── 08-Parameter-Properties.ts
+│   ├── 08-Parameter-Properties.js
+│   ├── 09-Getters-Setters.ts
+│   ├── 09-Getters-Setters.js
+│   ├── 10-Static-Members.ts
+│   ├── 10-Static-Members.js
+│   ├── 11-Abstract-Classes.ts
+│   ├── 11-Abstract-Classes.js
+│   └── notes.txt
 │
-├── 04-Generics/
-│   └── generics.ts
+├── 04-Functions/
+│   ├── 01-Functions-Intro.ts
+│   ├── 01-Functions-Intro.js
+│   ├── 02-Rest-Parameter.ts
+│   ├── 02-Rest-Parameter.js
+│   ├── 03-Function-Overloading.ts
+│   ├── 03-Function-Overloading.js
+│   └── notes.txt
 │
-├── 05-Modules-and-Namespaces/
-│   └── modules.ts
+├── 05-Advanced-Concepts/
+│   ├── 01-Generics.ts
+│   ├── 01-Generics.js
+│   ├── 02-Modules.ts
+│   ├── 02-Modules.js
+│   ├── 03-Type-Assertions.ts
+│   ├── 03-Type-Assertions.js
+│   ├── 04-Type-Guards.ts
+│   ├── 04-Type-Guards.js
+│   └── notes.txt
 │
 ├── 06-TSX-React/
 │   ├── src/
 │   │   ├── App.tsx
+│   │   ├── App.js
 │   │   ├── main.tsx
+│   │   ├── main.js
 │   │   └── components/
-│   │       └── Header.tsx
+│   │       ├── ExampleComponent.tsx
+│   │       └── ExampleComponent.js
 │   ├── public/
 │   │   └── index.html
 │   ├── tsconfig.json
 │   ├── package.json
-│   ├── vite.config.ts     # If using Vite
+│   ├── vite.config.ts
 │   └── README.md
 │
-├── LICENSE                # MIT License
-├── tsconfig.json          # For top-level TS compilation
-├── README.md              # Global documentation
+├── LICENSE
+├── tsconfig.json
+├── README.md
 └── .gitignore
 ```
 
