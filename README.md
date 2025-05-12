@@ -5,13 +5,44 @@ Welcome to my personal learning repository where I explore and practice **TypeSc
 ```bash
 ## 📂 Folder Structure
 
-typescript-tutorials/
+Typescript-Tutorials/
 │
-├── typescript-tutorials/ → Core TypeScript (TS) practice files
-├── ts-react-tutorials/ → TypeScript with React (TSX) tutorials
-├── tsconfig.json → Global TS config (can be per project too)
-├── package.json → (Optional) Common dependencies for projects
-└── README.md → This file you're reading
+├── 01-Basics/
+│   ├── index.ts
+│   ├── index.js         # Compiled output
+│   └── notes.md         # Optional: topic explanations
+│
+├── 02-Functions/
+│   ├── functions.ts
+│   └── functions.js
+│
+├── 03-Advanced-Types/
+│   ├── advanced-types.ts
+│   └── advanced-types.js
+│
+├── 04-Generics/
+│   └── generics.ts
+│
+├── 05-Modules-and-Namespaces/
+│   └── modules.ts
+│
+├── 06-TSX-React/
+│   ├── src/
+│   │   ├── App.tsx
+│   │   ├── main.tsx
+│   │   └── components/
+│   │       └── Header.tsx
+│   ├── public/
+│   │   └── index.html
+│   ├── tsconfig.json
+│   ├── package.json
+│   ├── vite.config.ts     # If using Vite
+│   └── README.md
+│
+├── LICENSE                # MIT License
+├── tsconfig.json          # For top-level TS compilation
+├── README.md              # Global documentation
+└── .gitignore
 ```
 
 ### 🔹 `typescript-tutorials/`
