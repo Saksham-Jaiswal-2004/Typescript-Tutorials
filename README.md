@@ -2,8 +2,7 @@
 
 Welcome to my personal learning repository where I explore and practice **TypeScript** and **React with TypeScript (TSX)**. This repository is organized into separate folders for **TypeScript** and **TypeScript with React (TSX)** tutorials, including mini-projects to reinforce the concepts.
 
----bash
-
+```bash
 ## 📂 Folder Structure
 
 typescript-tutorials/
@@ -13,8 +12,7 @@ typescript-tutorials/
 ├── tsconfig.json → Global TS config (can be per project too)
 ├── package.json → (Optional) Common dependencies for projects
 └── README.md → This file you're reading
-
----
+```
 
 ### 🔹 `typescript-tutorials/`
 This folder contains **TypeScript** tutorials, with individual folders for each topic. Here are the key concepts covered:
@@ -51,28 +49,28 @@ Each folder here contains:
 ```bash
 git clone https://github.com/your-username/Typescript-Tutorials.git
 cd Typescript-Tutorials
----
+```
 
 ### 2. Install dependencies (for React/Vite projects)
 If you're running React projects (e.g., in ts-react-tutorials/), install the required dependencies:
----bash
+```bash
 npm install
----
+```
 
 ### 3. Compile TypeScript files
 For TypeScript practice files (in typescript-tutorials/), compile .ts files into .js:
 
----bash
+```bash
 npx tsc
----
+```
 The compiled JavaScript files will appear next to their TypeScript counterparts. For example, App.tsx will compile to App.js.
 
 ### 4. Run React projects
 Navigate into any folder under ts-react-tutorials/ and run the React project:
 
----bash
+```bash
 npm run dev   # For Vite or other dev server configurations
----
+```
 This will start a development server and open the React app in your browser.
 
 ## 🛠 Tools & Stack
