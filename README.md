@@ -2,9 +2,8 @@
 
 Welcome to my personal learning repository where I explore and practice **TypeScript** and **React with TypeScript (TSX)**. This repository is organized into separate folders for **TypeScript** and **TypeScript with React (TSX)** tutorials, including mini-projects to reinforce the concepts.
 
-```bash
 ## 📂 Folder Structure
-
+```bash
 Typescript-Tutorials/
 │
 ├── 01-Basics/
