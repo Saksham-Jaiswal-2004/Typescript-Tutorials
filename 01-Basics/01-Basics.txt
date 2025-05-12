@@ -1,0 +1,24 @@
+Typescript is a better version of Javascript
+It has more features than Javascript
+Some features are missing in Javascript
+There is no Type Safety (Interchangeable data type for a variable) in Javascript
+
+TypeScript Setup
+•Setting up a TypeScript Project
+•Configuring tsconfig.json --> "tsc --init" if error comes then use "npx tsc --init"
+•Compiling TypeScript
+
+Every valid JavaScript code is a valid TypeScript code
+
+run "tsc --watch" if you want that the typescript files keeps compiling as soon as the file is saved it 
+without running another command.
+
+Basic Data Types:
+•Primitive Types (number, string, boolean)
+•Reference Types
+    •Arrays
+    •Tuples
+    •Enums
+•Any, Unknown, Void, Null, Undefined, Never
+
+We can copy primitive data types directly whereas we cannot directly copy reference data types
