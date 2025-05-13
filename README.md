@@ -19,18 +19,10 @@ Typescript-Tutorials/
 │   └── notes.txt
 │
 ├── 03-Classes-and-Objects/
-│   ├── 01-Intro-Classes-Objects.ts
-│   ├── 01-Intro-Classes-Objects.js
-│   ├── 02-Class-Fundamentals.ts
-│   ├── 02-Class-Fundamentals.js
-│   ├── 03-Constructor.ts
-│   ├── 03-Constructor.js
-│   ├── 04-This-Keyword.ts
-│   ├── 04-This-Keyword.js
-│   ├── 05-Public-Private.ts
-│   ├── 05-Public-Private.js
-│   ├── 06-Protected.ts
-│   ├── 06-Protected.js
+│   ├── 01-Classes-Objects.ts
+│   ├── 02-Constructor.ts
+│   ├── 03-This-Keyword.ts
+│   ├── 04-Access-Modifiers.ts
 │   ├── 07-Optional-Properties.ts
 │   ├── 07-Optional-Properties.js
 │   ├── 08-Parameter-Properties.ts
