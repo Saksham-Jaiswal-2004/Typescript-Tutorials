@@ -43,7 +43,11 @@ Typescript-Tutorials/
 │   ├── 04-Type-Guards.ts
 │   └── notes.txt
 │
-├── 06-TSX-React/
+├── 06-Other-Topics/
+│   ├── 01-Discriminated-Unions.ts
+│   ├── 02-Mapped-Types.ts
+│
+├── 07-TSX-React/
 │   ├── src/
 │   │   ├── App.tsx
 │   │   ├── App.js
