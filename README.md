@@ -23,36 +23,23 @@ Typescript-Tutorials/
 │   ├── 02-Constructor.ts
 │   ├── 03-This-Keyword.ts
 │   ├── 04-Access-Modifiers.ts
-│   ├── 07-Optional-Properties.ts
-│   ├── 07-Optional-Properties.js
-│   ├── 08-Parameter-Properties.ts
-│   ├── 08-Parameter-Properties.js
-│   ├── 09-Getters-Setters.ts
-│   ├── 09-Getters-Setters.js
-│   ├── 10-Static-Members.ts
-│   ├── 10-Static-Members.js
-│   ├── 11-Abstract-Classes.ts
-│   ├── 11-Abstract-Classes.js
+│   ├── 05-Optional-Properties.ts
+│   ├── 06-Getters-Setters.ts
+│   ├── 07-Static-Members.ts
+│   ├── 08-Abstract-Classes.ts
 │   └── notes.txt
 │
 ├── 04-Functions/
 │   ├── 01-Functions-Intro.ts
-│   ├── 01-Functions-Intro.js
 │   ├── 02-Rest-Parameter.ts
-│   ├── 02-Rest-Parameter.js
 │   ├── 03-Function-Overloading.ts
-│   ├── 03-Function-Overloading.js
 │   └── notes.txt
 │
 ├── 05-Advanced-Concepts/
 │   ├── 01-Generics.ts
-│   ├── 01-Generics.js
 │   ├── 02-Modules.ts
-│   ├── 02-Modules.js
 │   ├── 03-Type-Assertions.ts
-│   ├── 03-Type-Assertions.js
 │   ├── 04-Type-Guards.ts
-│   ├── 04-Type-Guards.js
 │   └── notes.txt
 │
 ├── 06-TSX-React/
