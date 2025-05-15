@@ -37,7 +37,8 @@ Typescript-Tutorials/
 │
 ├── 05-Advanced-Concepts/
 │   ├── 01-Generics.ts
-│   ├── 02-Modules.ts
+│   ├── 02-a-Modules.ts
+│   ├── 02-b-Modules.ts
 │   ├── 03-Type-Assertions.ts
 │   ├── 04-Type-Guards.ts
 │   └── notes.txt
