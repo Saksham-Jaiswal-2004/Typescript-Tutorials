@@ -30,7 +30,7 @@ Typescript-Tutorials/
 │   └── notes.txt
 │
 ├── 04-Functions/
-│   ├── 01-Functions-Intro.ts
+│   ├── 01-Functions-Basics.ts
 │   ├── 02-Rest-Parameter.ts
 │   ├── 03-Function-Overloading.ts
 │   └── notes.txt
@@ -70,7 +70,7 @@ This folder contains **TypeScript** tutorials, with individual folders for each 
 - **Advanced Types:** Union, Intersection, Type Narrowing
 - **Interfaces, Classes, and Generics**
 - **Utility Types and Modules**
-- **Practice Projects** such as a simple Calculator or Todo App
+- **Practice Projects**
 
 Each file includes:
 - **`.ts`** source code

@@ -1,0 +1,7 @@
+Functions
+1. Function Types
+2. Optional and default parameters
+3. Rest parameters
+4. Overloads
+
+
